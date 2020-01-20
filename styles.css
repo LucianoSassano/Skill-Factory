@@ -53,6 +53,9 @@
   color: white;
   justify-content: flex-end;
 }
+* .container header #main-list li a:hover {
+  font-size: 105%;
+}
 * .container section {
   margin-top: 60px;
 }
