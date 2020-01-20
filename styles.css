@@ -21,7 +21,9 @@ p{
     
 }
 
-
+h1{
+    background-color: #cccccc;
+}
 
 header{
     padding: 0;
@@ -30,6 +32,7 @@ header{
     max-width: auto;
     display: flex;
     justify-content: space-between;
+    background-color: #cccccc;
 }
 
 .bar{
